@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @BhanuPrakashBhukya  
+- 👀 I’m interested in Java, Spring Boot, Angular, and full-stack development.  
+- 🌱 I’m currently learning advanced AWS services and DevOps tools like Prometheus, Grafana, and Loki.  
+- 💞️ I’m looking to collaborate on Java Spring Boot projects, Angular applications, and multi-tenant API development.  
+- 📫 How to reach me: [email@bhanuprakash8082@gmail.com] or connect on LinkedIn at [linkedin.com/in/bhanu-prakash-bhukya-7365502a4](https://www.linkedin.com/in/bhanu-prakash-bhukya-7365502a4/).
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy coding solutions for real-world problems and exploring the intersection of technology and nature! 
