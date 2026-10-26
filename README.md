@@ -1,6 +1,6 @@
 # Hey, I'm Bhanu Prakash 👋
 
-**Backend-focused Software Engineer** with 2+ years of experience building production systems in Java and Spring Boot. I specialize in real-time systems, distributed architecture, and performance optimization in startup environments.
+**Backend-focused Software Engineer** with 3+ years of experience building production systems in Java and Spring Boot. I specialize in real-time systems, distributed architecture, and performance optimization in startup environments.
 
 ---
 
